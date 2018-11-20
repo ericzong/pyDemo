@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<finisher>
+    <list>
+        <file ext=".exe" target="E:\software">
+            <include></include>
+            <exclude></exclude>
+        </file>
+    </list>
+</finisher>
